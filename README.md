@@ -40,5 +40,3 @@ Desktop screenshot
 
 ## Author
 Víctor Manuel Núñez Pradas
-
-- GitHub - [VmNunez](https://github.com/VmNunez)
