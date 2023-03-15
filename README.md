@@ -38,5 +38,5 @@ Desktop screenshot
 - Mobile-first workflow
 
 
-## Author
+## Autor
 Víctor Manuel Núñez Pradas
