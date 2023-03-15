@@ -1,0 +1,21 @@
+@use '../../base/mixins' as m;
+
+.meeti{
+
+    &__heading{
+        @include m.heading;
+        margin-bottom: 5rem;
+    }
+
+    &__grid{
+        @include m.grid(1,2rem);
+
+        @include m.tablet{
+            @include m.grid(3,2rem);
+        }
+    }
+
+    &__contenido{
+        grid-column: 1 / 3;
+    }
+}
