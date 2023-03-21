@@ -1,6 +1,6 @@
 # Clon de Meetup
 
-Sitio web Responsive con enfoque Mobile First usando SCSS con BEM para el frontend y Vite para generar el build de producción.
+Sitio web Responsive con enfoque Mobile First usando SCSS junto a la metodología BEM para el frontend 
 
 ## Tabla de contenidos
 
