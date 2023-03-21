@@ -4,7 +4,7 @@ Sitio web Responsive con enfoque Mobile First usando SCSS con BEM para el fronte
 
 ## Tabla de contenidos
 
-- [Clon de Meetup](#clon-de-meetup)
+- Clon de Meetup
   - [Vista Previa](#vista-previa)
     - [Screenshot](#screenshot)
     - [Link](#link)
